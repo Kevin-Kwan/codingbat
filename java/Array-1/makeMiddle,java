@@ -1,0 +1,6 @@
+public int[] makeMiddle(int[] nums) {
+  int a=nums[nums.length/2];
+  int b=nums[nums.length/2-1];
+  int[]dab={b,a};
+  return dab;
+}
