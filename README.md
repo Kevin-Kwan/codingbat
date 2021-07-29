@@ -1,4 +1,4 @@
-# Kevin's CodingBat Solutions
+# Kevin's CodingBat Exercises Solutions
 Repository of my own iterations/answers to the CodingBat exercises. I completed most of the Java ones when I took AP CSA at GSMST. </br>
 https://codingbat.com/ </br>
 Please note that these java files will not compile without a "public class" definition and a main method in a normal Java setting. </br>
