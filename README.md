@@ -1,5 +1,6 @@
 # Kevin's CodingBat Exercises Solutions
 Repository of my own iterations/answers to the CodingBat exercises. I completed most of the Java ones when I took AP CSA at GSMST. Basically, we were assigned classwork and homework to complete these. They weren't too bad in my opinion except for a few of them. </br>
+
 I plan on doing the Python exercises at a later date since I'm currently still learning Python.
 
 Site where you can do these Java and Python exercises on your own: https://codingbat.com/ </br>
