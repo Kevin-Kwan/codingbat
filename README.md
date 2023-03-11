@@ -1,5 +1,5 @@
 # Kevin's CodingBat Exercises Solutions
-Repository of my own iterations/answers to the CodingBat exercises. I completed most of the Java ones when I took AP CSA at GSMST. Basically, we were assigned classwork and homework to complete these. They weren't too bad in my opinion except for a few of them. </br>
+Repository of my own iterations/answers to the CodingBat exercises. I completed most of the Java ones when I took AP CSA at GSMST. Basically, we were assigned classwork and homework to complete these. They weren't too bad in my opinion except for a few of them. However, I do know that the formatting is horrendous (I wasn't taught about checkstyle in this introductory course in high school, and I don't currently have the time to beautify/format the files), so I apologize for this. </br>
 
 I plan on doing the Python exercises at a later date since I'm currently still learning Python.
 
