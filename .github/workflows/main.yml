@@ -1,6 +1,7 @@
 name: Prettier for Java Code
 
 on:
+  workflow_dispatch:
   push:
     branches: [master]
 
